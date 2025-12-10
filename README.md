@@ -7,3 +7,6 @@ Recommender_model.ipynb - Trains an ALS model on the User-item data and saves th
 inference.ipynb - Entrypoint for the deployment endpoint. Has the inference logic
 
 Deployment.ipynb - Deployment endpoint
+
+## Dataset 
+Link - https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset
